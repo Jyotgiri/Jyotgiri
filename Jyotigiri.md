@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jyotgiri
+- 👋 Hi, I’m @Jyotigiri
 - 👀 I’m interested in Java Coding
 - 🌱 I’m currently learning lots of things
 - 💞️ I’m looking to collaborate on ...
